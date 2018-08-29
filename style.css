@@ -1,0 +1,17 @@
+body{
+  background-color:yellow;
+}
+#frm{
+  width:250px;
+  border-radius:10px;
+  margin:50px;
+  background:white;
+  padding:100px;
+}
+#btn{
+  color:white;
+  background:blue;
+  padding:5px;
+  /*margin-left:50%;*/
+  margin: auto;
+}
